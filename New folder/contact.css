@@ -1,0 +1,40 @@
+@charset "utf-8";
+/* CSS Document */
+
+body { background-color: #C60;
+	color:#000;
+	padding:20px;
+	margin:20px;
+	margin-right:40px;
+	margin-left:40px;	}
+	
+input#submit {border:5px;
+border-style:double ;
+margin:6px;
+padding:2px;
+color: #FFF;
+background:#000;}
+
+input#name {border:1px;
+border-style:double;
+margin:6px;
+padding:2px;
+color: #FFF;
+background:#000;}
+
+#last {color: #FFF;
+background:#000; }
+
+h1 {color:#000;}
+
+#about  { color:#0F3;}
+
+#page {text-align:center;}
+
+a {color:#FFF;}
+
+#slice {color:#C00;
+text-align:right;}
+
+
+#slice:hover {color:#0F3;}

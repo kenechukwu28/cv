@@ -1,0 +1,73 @@
+@charset "utf-8";
+/* CSS Document */
+
+body { background-image: url(IMG_20200205_153921_829.JPG);
+background-repeat:no-repeat;
+padding:30px;
+margin:20px;
+margin-top:5px;
+ }
+ 
+#youtube{ text-align:right; }
+ 
+ #veli {color: #F60;
+ text-transform: capitalize;
+ background-color:#366;}
+ 
+ #copy { text-align:right;
+ color:#000;
+ background-color:#366;}
+ 
+ #top {background-color:#F9F;
+ color: #000; }
+
+h1 { color:#F60;
+background-size:auto;
+background-color: #099;
+text-transform:uppercase;
+font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;}
+
+#page {background-color:#666;
+text-decoration:none;
+text-align:center;}
+
+#black {color: #000;}
+
+p {color:#FFF;
+ }
+ 
+ h4 { display:list-item; }
+ 
+ #shift {background-color:#F9F;
+
+ color:black;
+ text-align:left; }
+ 
+ #image {border:thick #FFF;
+ }
+ 
+ li {color:#FFF;
+ text-shadow:-1px -1px #FF6600; }
+ 
+ h5 { text-align:center;
+ text-transform: capitalize;
+ color:#000;
+ 
+ }
+ 
+ #image {border:#FFF thick;}
+ 
+ a:hover {color: #FFF ;}
+ 
+ a { background-color:#3FF;
+	 color:#000000;
+	 text-decoration: underline; }
+	 
+	 ul {background-color:#366;
+	 color:#000; }
+	 
+	a {background-color:transparent;
+	color:#F60;}
+	
+	#welcome { background-color: #666;
+	color:#FFF;}

@@ -1,0 +1,25 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+body {background-color:#C00;
+color: #F90;
+padding:200px;
+margin:10px;
+font:Arial, Helvetica, sans-serif;
+}
+
+h2, h3, h5 {text-align:center;
+border:20px thin #0F6;
+border-style: solid;}
+
+#contact {
+	text-align: left;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	color: #C60;
+}
+
+a {color: #FF6;
+text-decoration:underline;}
+
+a:hover {color: #F39; }

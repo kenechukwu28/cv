@@ -1,0 +1,9 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+body {background-color:#669;
+color:#CCC;
+text-shadow:#FFF -1px -1px;
+margin:50px;
+text-transform:capitalize;}

@@ -1,0 +1,81 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {background: #000;
+margin:50px; padding:10px; border:30px solid; border-color: #FFF;
+margin:30px;}
+
+#youtube {text-align:right;}
+
+p {text-shadow:-1px -1px  #FF9933; }
+
+i[black] {color:#000;}
+
+img#one {border:thin #FFF; }
+
+#nav { background-color:#000;
+margin:20px; padding:10px; border:#000 thick;
+color:#C93;
+display:inline;
+	}
+	
+	a {color:#C93;}
+	
+	#page {text-align:center;
+	text-shadow:#FFF;}
+	
+	
+
+h1 {
+	text-align:center;
+	background-image:url(f3b0501766c492f79479ef242523a552.jpg);
+color: #ffffff;
+text-shadow: -1px -1px #666666;}
+
+
+#side bar {float:right;
+alignment-baseline:hanging; }
+
+h3 { color: #FFF; 
+}
+
+h4 {background-color:#000;
+color:#C93;
+font:italic;
+}
+
+h5 { background-color:white;
+background-size:cover;
+color:blue; }
+
+
+.black {color:#000;}
+#gold {color:#C93;}
+
+aside {color:#C93;}
+
+#footer {color: #06F;
+text-align:right;
+background-color:#FFF;}
+
+#def {text-align:center;
+text-decoration:underline;
+color:#900;
+}
+
+a:hover {color:#C00;}
+
+#page {border:thin #C93;}
+
+#about { background-color:#900; }
+
+#best {color:#900;
+font-size: larger;
+font-family:"Arial Black", Gadget, sans-serif;}
+
+i {color:#C93 ; }
+
+ #one { border:2px;
+border-color:#FFF; }
+
+ 
